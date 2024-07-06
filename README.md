@@ -4,9 +4,10 @@ The recent surge in mobile gaming market recently peaked my interest. So I attem
 
 ### Screenshots
 
-![Title screen](https://github.com/pervelaHemanth23/FlampyBirmdAndroid/blob/main/Screenshots/1.jpg)
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![Title screen](https://github.com/pervelaHemanth23/FlampyBirmdAndroid/blob/main/Screenshots/1.jpg) |  ![Gameplay](https://github.com/pervelaHemanth23/FlampyBirmdAndroid/blob/main/Screenshots/2.jpg)
 
-![Gameplay](https://github.com/pervelaHemanth23/FlampyBirmdAndroid/blob/main/Screenshots/2.jpg)
 
 ![GameOverScreen](https://github.com/pervelaHemanth23/FlampyBirmdAndroid/blob/main/Screenshots/3.jpg)
 
