@@ -4,10 +4,14 @@ The recent surge in mobile gaming market recently peaked my interest. So I attem
 
 ### Screenshots
 
-            |  
+Title Screen            |  Gameplay
 :-------------------------:|:-------------------------:
 ![Title screen](https://github.com/pervelaHemanth23/FlampyBirmdAndroid/blob/main/Screenshots/1.jpg) |  ![Gameplay](https://github.com/pervelaHemanth23/FlampyBirmdAndroid/blob/main/Screenshots/2.jpg)
 
+<p float="left">
+  <img src="/img1.png" width="100" />
+  <img src="/img2.png" width="100" /> 
+</p>
 
 ![GameOverScreen](https://github.com/pervelaHemanth23/FlampyBirmdAndroid/blob/main/Screenshots/3.jpg)
 
