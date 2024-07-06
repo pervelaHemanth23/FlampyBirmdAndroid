@@ -4,6 +4,7 @@ The recent surge in mobile gaming market recently peaked my interest. So I attem
 
 ### Screenshots
 
+            |  
 :-------------------------:|:-------------------------:
 ![Title screen](https://github.com/pervelaHemanth23/FlampyBirmdAndroid/blob/main/Screenshots/1.jpg) |  ![Gameplay](https://github.com/pervelaHemanth23/FlampyBirmdAndroid/blob/main/Screenshots/2.jpg)
 
